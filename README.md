@@ -4,7 +4,7 @@ A Docker based implementation of blockchain network for testing and development 
 - 1 Ethereum node
 - 2 Ethereum miner nodes
 - 2 [Swarm](https://swarm-gateways.net/bzz:/theswarm.eth) nodes (distributed storage platform)
-- [Ethereum Network Status Dashboard](https://github.com/goerli/ethstats-server)
+- [Ethereum Network Status Dashboard](https://github.com/bcvivi/ethstats-server)
 
 Using Proof-of-Authority consensus instead of Proof-of-Work.
 New block creates every 5 seconds.
