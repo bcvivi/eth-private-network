@@ -20,7 +20,7 @@ docker-compose up
 ```
 
 After all you can find:
-- Ethereum Network Stats at [http://localhost:3000](http://localhost:3000)
+- Ethereum Network Stats at [http://localhost:3001](http://localhost:3001)
 - Node 1 RPC access at [http://localhost:8545](http://localhost:8545)
 - Node 2 (miner) RPC access at [http://localhost:8546](http://localhost:8546)
 - Node 3 (miner) RPC access at [http://localhost:8547](http://localhost:8547)

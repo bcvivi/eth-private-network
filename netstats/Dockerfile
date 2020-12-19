@@ -10,4 +10,4 @@ RUN sed -i "s/Testnet/Ethereum/" src/views/layout.jade
 RUN npm install && grunt poa
 CMD npm start
 
-EXPOSE 3000
+EXPOSE 3001
